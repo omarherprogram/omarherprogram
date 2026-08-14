@@ -14,17 +14,19 @@
 </div>  
   
 
-<img src="https://i.pinimg.com/originals/ab/28/0c/ab280ccc067a0fe7d4309ce7bdd199fa.gif" align="left" height="200" width="900" />  
+<div align="center">
+<img src="https://i.pinimg.com/originals/ab/28/0c/ab280ccc067a0fe7d4309ce7bdd199fa.gif" align="center" height="200" width="900" />
+</div>  
   
 
 
 
 ### Know About Me  
-I discovered my passion for programming when I was just 12 years old. What started as pure curiosity about how things worked on the internet quickly turned into a hobby that I love and dedicate a lot of my free time to.
+<div align="center">I discovered my passion for programming when I was just 12 years old. What started as pure curiosity about how things worked on the internet quickly turned into a hobby that I love and dedicate a lot of my free time to.
 
 I am currently in my first year of high school. Even though I treat coding as a hobby alongside my studies for now, I enjoy taking on challenges that test my logic and allow me to build my own projects. I'm the kind of person who enjoys learning new things on my own and experimenting with code.
 
-When I'm not writing lines of code or studying, I like to disconnect and spend my time listening to urban music.  
+When I'm not writing lines of code or studying, I like to disconnect and spend my time listening to urban music.</div>  
   
 
 <br/>  
@@ -75,6 +77,10 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=omarherprogram&&style=flat-square" align="center" />
 </div>  
+  
+
+<br/>  
+
   
 
 <br/>  

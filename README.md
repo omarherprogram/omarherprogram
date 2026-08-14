@@ -89,4 +89,3 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

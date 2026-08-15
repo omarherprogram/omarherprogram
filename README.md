@@ -93,6 +93,7 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 </td><td valign="top" width="50%">
 
 <div align="right"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31dyqpnhvxdsebm42ikhle5ysfxa&unique={true|1|on|yes}" /></div>
-<br />
 
-----
+</td></tr></table>  
+
+<br />

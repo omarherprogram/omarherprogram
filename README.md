@@ -108,7 +108,7 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 
 ## Statistics
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
@@ -122,4 +122,3 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 </table>
 
 ---
-

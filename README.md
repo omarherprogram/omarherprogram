@@ -101,3 +101,20 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 </div>
 
 <br />
+
+---
+
+<br/><br/>
+
+## Statistics
+<div align="center">
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
+
+<img src="https://streak-stats.demolab.com?user=omarherprogram&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
+
+<br/>
+
+</div>
+
+---
+

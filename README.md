@@ -87,5 +87,14 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 
 
 <br />
+<img data-importer="image" align="left" height="280" src="https://i.pinimg.com/736x/00/b7/2a/00b72a278ab04fe5706d11092c34c539.jpg"  />
 
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/omarherprogram/omarherprogram/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/omarherprogram/omarherprogram/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="50" alt="languages graph"  />
+</div>
+
+###
 ----

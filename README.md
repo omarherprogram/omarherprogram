@@ -90,7 +90,7 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 <table width="100%">
   <tr>
     <td align="left" valign="top" width="50%">
-      <img src="https://i.pinimg.com/736x/0c/29/1b/0c291b04ffbe59ec72528cdab74a2413.jpg" height="350" width="350" />
+      <img src="https://i.pinimg.com/736x/0c/29/1b/0c291b04ffbe59ec72528cdab74a2413.jpg" height="300" width="300" />
     </td>
     <td align="right" valign="top" width="50%">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dyqpnhvxdsebm42ikhle5ysfxa&unique=true" />

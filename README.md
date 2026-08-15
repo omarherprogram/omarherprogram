@@ -107,9 +107,10 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 <br/><br/>
 
 ## Statistics
-<div align="center">
-<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 <div align="left">
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
+
+  <div align="right">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarherprogram&theme=dark&border_radius=0&mode=weekly)](https://git.io/streak-stats)
 

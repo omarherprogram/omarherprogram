@@ -87,7 +87,7 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 
 ## My Music
 <table><tr><td valign="top" width="50%">
-<div align="left">
+<div align="center">
 <img src="https://i.pinimg.com/736x/0c/29/1b/0c291b04ffbe59ec72528cdab74a2413.jpg" align="left" height="350" width="350" />  
 </div> 
 </td><td valign="top" width="50%">

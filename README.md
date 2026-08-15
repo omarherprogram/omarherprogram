@@ -86,7 +86,7 @@ When I'm not writing lines of code or studying, I like to disconnect and spend m
 <br/>  
 
 
-<img src="https://i.pinimg.com/736x/00/b7/2a/00b72a278ab04fe5706d11092c34c539.jpg" align="left" height="390" width="400" />  
+<img src="https://i.pinimg.com/736x/00/b7/2a/00b72a278ab04fe5706d11092c34c539.jpg" align="left" height="200" width="200" />  
   
 
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31dyqpnhvxdsebm42ikhle5ysfxa&unique={true|1|on|yes}" /></div>
